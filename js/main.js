@@ -180,3 +180,16 @@
     });
 
 })(jQuery);
+
+    /*------------------
+        Streamlit Pop Page 
+    --------------------*/
+
+function openStreamlitPopup() {
+    window.open(
+      'Https://mansakamin-modul.streamlit.app/', 
+      'StreamlitPopup',
+      'width=950,height=700'
+    );
+  }
+  
