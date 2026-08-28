@@ -84,7 +84,7 @@ Open the local interface on your browser (http://localhost:8501 or http://localh
 Upload the TryMe video file to view real-time pilgrim detection, count tracking, and overcrowding alerts.
 
 > Fined the code in 👉 **[Main Project Repository](https://github.com/Hanan71/MansakAmin/tree/main/MansakAmin_modul-main)**.
-> (You can run it lockaly
+> (You can run it lockaly)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e560d277-df26-42d6-9df4-241269cb037d" width="70%" alt="Screenshot" />
