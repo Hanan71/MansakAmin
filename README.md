@@ -45,6 +45,6 @@ Explore the deployed web app directly without any setup:
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-8A2BE2?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=1a1a2e)](https://Hanan71.github.io/MansakAmin/) 👈 Click here to visit the live website
 
-[![View PDF](https://img.shields.io/badge/View_PDF-Document-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=9CA3AF)](https://github.com/Hanan71/MansakAmin/blob/main/Mansak_Amin_Graduation_hananProject%202.pdf) 👈 Click to view project documentation
+[![View PDF](https://img.shields.io/badge/View_PDF-Document-FF69B4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=9CA3AF)](https://github.com/Hanan71/MansakAmin/blob/main/Mansak_Amin_Graduation_hananProject%202.pdf) 👈 Click to view project documentation
 
 [![Canva Presentation](https://img.shields.io/badge/Canva_Presentation-79529cf?style=for-the-badge&logo=canva&logoColor=white&color=6f42c1)](https://canva.link/ff0mt9kpn19rb41) 👈 Click to view the presentation on Canva
