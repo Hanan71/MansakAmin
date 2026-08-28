@@ -1,7 +1,5 @@
 # Mansak Amin (مَنسَك آمن) 🕋✨
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-8A2BE2?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=1a1a2e)](https://Hanan71.github.io/MansakAmin/) 👈 Click here to visit the live website
-
 A digital platform and interactive web client designed to assist pilgrims during Hajj and Umrah, providing smart guidance and services to ensure a safe, smooth, and spiritually enriching journey.
 
 ---
@@ -46,3 +44,4 @@ Open index.html directly in any web browser, or launch it using an extension lik
 Explore the deployed web app directly without any setup:
 
 🔗 https://Hanan71.github.io/MansakAmin/
+[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-8A2BE2?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=1a1a2e)](https://Hanan71.github.io/MansakAmin/) 👈 Click here to visit the live website
