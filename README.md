@@ -9,7 +9,7 @@ A digital platform and interactive web client designed to assist pilgrims during
 > **📌 Important Note:**  
 > This repository serves as the **hosted static frontend / live web client** deployed via GitHub Pages.  
 > To view the complete project, core source code, and integrated backend services, please visit the main repository:  
-> 👉 **[Main Project Repository](https://github.com/Hanan71/)** *(replace with the specific repo URL if applicable)*.
+> 👉 **[Main Project Repository]([https://github.com/Hanan71/](https://github.com/Hanan71/MansakAmin/tree/main/MansakAmin_modul-main))** .
 
 ---
 
