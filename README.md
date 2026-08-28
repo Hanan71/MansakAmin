@@ -30,7 +30,7 @@ A digital platform and interactive web client designed to assist pilgrims during
 
 ## 🚀 Local Preview
 
-1. **Clone the repository:**
+1. **Clone the repository:** MacOS
    ```bash
    git clone [https://github.com/Hanan71/MansakAmin.git](https://github.com/Hanan71/MansakAmin.git)
    cd MansakAmin
