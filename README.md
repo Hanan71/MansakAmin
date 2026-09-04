@@ -44,6 +44,10 @@ Open index.html directly in any web browser, or launch it using an extension lik
   <img src="https://github.com/user-attachments/assets/83fd5b69-ccf5-43ef-b744-61a76d04ab68" width="70%" alt="Screenshot" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e2d10a6f-ebca-4026-bdb9-a40a4a51dcab" width="70%" alt="Screenshot" />
+</p>
+
 🌐 Live Website
 Explore the deployed web app directly without any setup:
 
